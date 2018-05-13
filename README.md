@@ -1,0 +1,5 @@
+# liaoxuefeng_python3-
+爬取廖雪峰老师的python3教程
+主要是BeautifulSoup4，requests，pdfkit库
+未采用分布式及ip代理池
+将抓取的html通过wkhtmltopdf(需要下载安装)转换为pdf
