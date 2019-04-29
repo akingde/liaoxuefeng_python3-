@@ -13,4 +13,5 @@ PS:I started with his Python tutorial
 3. Distributed and ip proxy pools are not used
 
 5.  I kept the crawled html and pdf, they are in the zip file.
+6.  
 ![](./book.JPG)
