@@ -1,4 +1,4 @@
-#--coding:utf-8--
+#-*-coding:utf-8-*-
 #@author:lijinxi
 '''
 获取所有urls

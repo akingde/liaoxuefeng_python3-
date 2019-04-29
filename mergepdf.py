@@ -1,4 +1,4 @@
-#--coding:utf-8--
+#-*-coding:utf-8-*-
 #@author:lijinxi
 '''
 合并生成的pdf文件
