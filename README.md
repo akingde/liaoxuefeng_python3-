@@ -43,7 +43,7 @@ However, there is a little disadvantage that the example code does not have synt
 
 三、使用wkhtmltopdf将已爬取的html转换为pdf
 
-四、我将脚本和css样式保存在html文件中，这使它看起来像是在web上看到的。
+四、我将脚本和CSS样式保存在html文件中，这使它看起来像是在web上看到的。
 
 五、不使用分布式和ip代理池
 
