@@ -55,6 +55,7 @@ class Crawl:
         menu = bs_obj.find('ul', {'id': 'x-wiki-index', 'class': 'uk-nav uk-nav-side'})
         head = bs_obj.find('head')
         styles = bs_obj.findAll('style')
+        # internal css
         for style in styles:
             if style not in self.css:
                 self.css.append(style)
@@ -80,7 +81,8 @@ class Crawl:
                     if not os.path.exists(os.path.dirname('.' + javascript['src'])):
                         os.makedirs(os.path.dirname('.' + javascript['src']))
                     if '?' in javascript['src']:
-                        continue
+                        index = javascript['src'].index('?')
+                        javascript['src'] = javascript['src'][:index]
                     with open('.' + javascript['src'], 'w', encoding='utf-8') as f:
                         f.write(res.text)
                     javascript['src'] = '.' + javascript['src']
@@ -207,6 +209,6 @@ class Crawl:
 if __name__ == '__main__':
     # crawl = Crawl("https://www.liaoxuefeng.com/wiki/1016959663602400/1019418790329088", 'liaoxuefeng_python3.pdf')
     # crawl = Crawl("https://www.liaoxuefeng.com/wiki/1252599548343744", 'liaoxuefeng_java12.pdf')
-    #crawl = Crawl('https://www.liaoxuefeng.com/wiki/1022910821149312', 'liaoxuefeng_javascript.pdf')
-    #crawl=Crawl('https://www.liaoxuefeng.com/wiki/1177760294764384','liaoxuefeng_sql.pdf')
-    crawl=Crawl('https://www.liaoxuefeng.com/wiki/896043488029600','liaoxuefeng_git.pdf')
+    # crawl = Crawl('https://www.liaoxuefeng.com/wiki/1022910821149312', 'liaoxuefeng_javascript.pdf')
+    crawl = Crawl('https://www.liaoxuefeng.com/wiki/1177760294764384', 'liaoxuefeng_sql.pdf')
+    # crawl=Crawl('https://www.liaoxuefeng.com/wiki/896043488029600','liaoxuefeng_git.pdf')
