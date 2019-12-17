@@ -26,6 +26,14 @@ I crawled through all the tutorials, which you can download.
 
 However, there is a little disadvantage that the example code does not have syntax highlighting.  In the previous  version, it was right. It will be improved later...
 
+
+#### Updated: 2019/12/18
+
+Version  0.2.1
+
+fix syntax highlighting.
+
+
 <hr />
 
 
@@ -62,3 +70,10 @@ However, there is a little disadvantage that the example code does not have synt
 
 
 但是，有一点缺点，示例代码没有语法突出显示。在以前的版本中，它是正确的。以后会改进的。。。
+
+
+#### 更新日期：2019/12/18
+
+版本0.2.0
+
+修复代码语法高亮。

@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc50f75e-c308-4709-91f1-acc946cc1f44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/liaoxuefeng_git.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/liaoxuefeng_java12.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/liaoxuefeng_javascript.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/liaoxuefeng_python3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/liaoxuefeng_sql.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/JavaScript-files.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/JavaScript-static.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/git-files.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/git-static.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/java12-files.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/java12-static.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/python-files.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/python-static.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/sql-files.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/sql-static.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toc.xls" beforeDir="false" afterPath="$PROJECT_DIR$/toc.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +204,7 @@
       <workItem from="1556371640900" duration="1538000" />
       <workItem from="1576420451890" duration="17431000" />
       <workItem from="1576588899496" duration="10625000" />
-      <workItem from="1576624711097" duration="1423000" />
+      <workItem from="1576624711097" duration="2018000" />
     </task>
     <servers />
   </component>
