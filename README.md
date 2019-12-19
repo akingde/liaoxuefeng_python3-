@@ -36,7 +36,6 @@ fix syntax highlighting.
 
 <hr />
 
-
 #### 本项目是从廖雪峰网站获取wiki的一个教程：https://www.liaoxuefeng.com/
 
 #### 它可以用来抓取他所有的博客
@@ -77,3 +76,7 @@ fix syntax highlighting.
 版本0.2.0
 
 修复代码语法高亮。
+
+结果：
+
+![](book.PNG)
